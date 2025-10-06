@@ -1,4 +1,4 @@
-my calclator ice 2 imad 
+my calculator ice 2 imad 
 
 code 
 
