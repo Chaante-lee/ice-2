@@ -3,6 +3,8 @@ my calculator ice 2 imad
 code 
 
 activitymain
+
+
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -57,6 +59,8 @@ activitymain
 </LinearLayout>
 
 mainactivity.kt
+
+
 package com.example.ice2 //name of package
 
 import android.os.Bundle
