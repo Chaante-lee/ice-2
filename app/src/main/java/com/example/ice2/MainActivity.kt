@@ -1,4 +1,4 @@
-package com.example.ice2
+package com.example.ice2 //name of package
 
 import android.os.Bundle
 import android.widget.Button
